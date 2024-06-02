@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "title": "eka rahmana putri",
+      "content": "teknik informatika",
+      "id": "2"
+    },
+    {
+      "title": "teknik informatika",
+      "content": "fakultas teknik",
+      "id": "3"
+    },
+    {
+      "id": "0ad2",
+      "title": "syifani kurnia mora",
+      "content": "kelas 4H"
+    }
+  ]
+}
